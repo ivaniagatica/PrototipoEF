@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=ayudastraslados.chm
+Contents file=Table of Contents.hhc
+Default Window=ayudastraslados
+Display compile progress=No
+Language=0x100a Español (Guatemala)
+
+[WINDOWS]
+ayudastraslados="ayudastraslados","Table of Contents.hhc",,"ayudasTraslados.html","ayudasTraslados.html","ayudasTraslados.html","ayudastraslados","ayudasTraslados.html","ayudastraslados",0x23520,,0xc387e,,,,,,,,0
+
+
+[FILES]
+ayudasTraslados.html
+
+[INFOTYPES]
+

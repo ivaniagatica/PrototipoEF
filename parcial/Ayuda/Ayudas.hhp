@@ -1,0 +1,19 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Ayudas.chm
+Contents file=Ayudas.hhc
+Default Window=AyudaGeneral
+Display compile progress=No
+Language=0x100a Español (Guatemala)
+
+[WINDOWS]
+AyudaGeneral="AyudaGeneral","Ayudas.hhc",,"Ayuda-Bodega.html","Ayuda-Producto.html","Ayuda-Traslado.html","AyudaTraslado","Ayuda-Bodega.html","AyudaBodega",0x23520,,0xc387e,,,,,,,,0
+
+
+[FILES]
+Ayuda-Bodega.html
+Ayuda-Producto.html
+Ayuda-Traslado.html
+
+[INFOTYPES]
+
